@@ -1,0 +1,20 @@
+git init
+git add .
+git add -A
+git commit -m "descrição semântica do commit"
+git config user.name
+git config user.email
+git config --global user.name
+git config --global user.email
+
+git status
+git log
+git rm
+git pull
+git push
+git -v
+git help
+git ls
+git cd
+git cd..
+git clone
