@@ -18,3 +18,8 @@ git ls
 git cd
 git cd..
 git clone
+
+git branch nome-da-branch
+git branch -d nome-da-outra-branch
+git checkout -b nome-da-branch
+git checkout
