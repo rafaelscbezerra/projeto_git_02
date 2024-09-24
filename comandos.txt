@@ -14,9 +14,6 @@ git pull
 git push
 git -v
 git help
-git ls
-git cd
-git cd..
 git clone
 
 git branch nome-da-branch
