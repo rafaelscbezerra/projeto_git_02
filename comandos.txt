@@ -23,3 +23,5 @@ git checkout
 git merge
 git fetch
 git reset --HARD
+
+Teste Mauricio_2609 colaborador
